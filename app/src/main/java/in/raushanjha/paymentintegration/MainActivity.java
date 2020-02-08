@@ -33,7 +33,7 @@ public class MainActivity extends AppCompatActivity implements PaymentResultList
             }
         });
     }
-dhj
+
     private void paynow() {
 
         Checkout checkout = new Checkout();
